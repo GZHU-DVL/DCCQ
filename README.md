@@ -33,7 +33,7 @@ python main.py
 If you want to train and evaluate a 64-bit DCCQ model on NUS-WIDE, you can do:
 
 ```bash
-cd NUS-WIDE
+cd NUSWIDE
 python main.py 
 ```
 
